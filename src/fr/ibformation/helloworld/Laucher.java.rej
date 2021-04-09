@@ -1,0 +1,10 @@
+diff a/src/fr/ibformation/helloworld/Laucher.java b/src/fr/ibformation/helloworld/Laucher.java	(rejected hunks)
+@@ -7,7 +7,7 @@
+ 	public static void main(String[] args) {
+ 		System.out.println("Hello World Bitches and Renaud !");
+ 
+-	System.out.println("Finally Hello Renaud the bitch and the others !!!");
++	System.out.println("Finally Hello Renaud the bitch !!!");
+ 		Scanner scanner;
+ 		
+ 		
